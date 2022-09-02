@@ -12,3 +12,4 @@ Display fifth directory
 Display fifth directory
 Display fifth directory
 change the working directory to the user’s home directory
+change home directory
