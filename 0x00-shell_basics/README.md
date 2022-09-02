@@ -15,3 +15,4 @@ change the working directory to the user’s home directory
 change home directory
 my second home directory
 my  directory
+important directory
